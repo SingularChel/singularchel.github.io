@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# singular chel
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hi. I am Chel. I am a taco. I am a non-binary/genderflux person and my pronouns are singular 'they' (they/them/theirs). This is where I plan to dump my random musings about life and stuff. If you're here, you probably already know who I am.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Interests: Video games (Nintendo, mobile, Steam/PC gaming, retro), music (EDM, punk rock, metal), food (anything that tastes good or is spicy), travel, technology (mobile computing, operating systems, open source), mental health
